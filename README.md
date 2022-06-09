@@ -3,7 +3,7 @@ Esse repositório tem como objetivo solidificar meu proguesso no curso de bootca
 ## links úteis
 [código Portugol webstudio](https://portugol-webstudio.cubos.io/ide#share=63495)
 Pensamento Computacional não é uma habilidade acadêmica , mas sim, uma habilidade generalista , ou seja, podemos usá-lo na matemática, leitura, escrita entre outros.
-os quatro pilares do pensamento computacional são: decomposição, reconhecimento de padrões, abstração e design de algoritmos.
+Os quatro pilares do pensamento computacional são: decomposição, reconhecimento de padrões, abstração e design de algoritmos.
 Como construir um algoritmo
 ...compreensão do problema (pontos mais importantes)
 ...definição dos dados de entrada(dados fornecidos e cenário)
