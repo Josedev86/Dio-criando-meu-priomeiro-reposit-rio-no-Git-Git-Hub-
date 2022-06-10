@@ -10,3 +10,4 @@ Como construir um algoritmo
 ...definir o processamento(cálculos e restrições)
 ... definir os dados de saída(ápos o processamento)
 ...utilizar um método de construção, teste e diagnósticos (construção e refinamento do algoritmo)
+Patrocínio-Minas Gerais ano 2022
